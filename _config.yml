@@ -9,25 +9,25 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Rong Guo / Homepage" # Update this with your name and/or a title for your site
+title                    : "Rong Guo" # Update this with your name and/or a title for your site
 title_separator          : "-"
 name                     : &name "Rong Guo"
 description              : &description "Rong Guo's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://rongguo2.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rongguo2/rongguo2.github.io"
+repository               : "rongguo2.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "portrait.jpg" # filename of avatar image placed in /images/ for author profile
   name             : "Rong Guo"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography"
-  location         : "Earth"
+  pronouns         : # example: "he/him"  
+  bio              : "Research Scientist at Siemens Healthineers." # Update this with a short biography of yourself, this is the default if not overridden by a page
+  location         : "Saint Louis, MO, USA" # Update this with your location
   employer         : "Siemens Healthineers"
   uri              : # URL
   email            : "rong.guo@siemens-healthineers.com" 
@@ -87,9 +87,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Representative Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Representative Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
