@@ -87,9 +87,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Representative Journal Articles'    
+    title: 'Selected Journal Articles'    
   conferences:
-    title: 'Representative Conference Papers'
+    title: 'Selected Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -307,19 +307,19 @@ timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
 # Mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
@@ -359,3 +359,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Publications
+# Set to true to show publication titles as plain text (no click-through detail pages) on /publications/.
+disable_publication_detail_pages: true
