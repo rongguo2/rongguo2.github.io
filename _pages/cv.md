@@ -18,7 +18,7 @@ Education
 
 Research Experience
 ======
-* MR Research Scientist and Collaboration Manager, Siemens Medical Solutions USA, Inc. (Ultrahigh Field Team), 2022 - present
+* MR Research Scientist and Collaboration Manager, Siemens Medical Solutions USA, Inc. , 2022 - present
   * Developed novel 7 Tesla MR imaging techniques 
 * Research Assistant, University of Illinois at Urbana-Champaign (Advisor: Prof. Zhi-Pei Liang), 2016 - 2022
   * Developed high-resolution MRSI methods at 3T and 7T
