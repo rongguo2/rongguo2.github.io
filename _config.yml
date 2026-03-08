@@ -362,4 +362,4 @@ compress_html:
 
 # Publications
 # Set to true to show publication titles as plain text (no click-through detail pages) on /publications/.
-disable_publication_detail_pages: true
+disable_publication_detail_pages: false

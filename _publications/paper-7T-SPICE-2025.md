@@ -8,4 +8,9 @@ date: 2025-12-01
 venue: 'IEEE Transactions on Biomedical Engineering'
 paperurl: 'https://rongguo2.github.io/files/paper_2025_Ronny_7TSPICE.pdf'
 citation: 'R. Guo et al., "High-Resolution Brain Metabolic Imaging at Ultrahigh Field Using Extended Spatiospectral Encoding and Subspace Modeling," in IEEE Transactions on Biomedical Engineering, vol. 72, no. 12, pp. 3558-3566, Dec. 2025, doi: 10.1109/TBME.2025.3572448.'
-This page can be used for abstract, highlights, and supplementary notes for this publication.
+---
+Objective: To develop a high-resolution mag￾netic resonance (MR) metabolic imaging method for map￾ping human brain metabolite distributions at ultrahigh field (7T). 
+Methods: In data acquisition, a free-induction￾decay (FID) based MR spectroscopic imaging (MRSI) se￾quence was implemented. To achieve high spatial reso￾lution, the sequence used fast echo-planar spectroscopic imaging (EPSI) trajectories with echo-spacings larger than the Nyquist sampling interval. Using this sequence, 3D MRSI signals at isotropic nominal resolutions of 3.0 mm and 1.8 mm were acquired within scan times of 4.8 and 14.2 minutes, respectively. In data processing, model￾based methods integrating subspace learning, spectral modeling, and generalized series modeling were developed to address key challenges, including spectral ghosting, low signal-to-noise ratio, and spectral aliasing. 
+Results: The proposed acquisition and processing methods suc￾cessfully generated high-resolution, high-quality metabo￾lite maps of the human brain at 7T. Experimental results from phantom and in vivo scans validated the proposed method and showed its capability to capture detailed brain metabolite distributions. 
+Conclusion: This work demon￾strates the feasibility of high-resolution brain metabolic imaging at ultrahigh field using MRSI acquisition sequence and model-based processing methods.
+Significance: By providing high-resolution spatial mapping of brain metabo￾lites within clinically feasible scan times, the proposed method promises to offer a powerful imaging tool for investigating brain metabolism, which is expected to be useful for various brain imaging applications.
